@@ -7,7 +7,7 @@ This repository contains two main sql files, one with the schema used to create 
 
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
+![sql.png](Images/sql.png)
 
 ## Background
 
